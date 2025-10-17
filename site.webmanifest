@@ -1,6 +1,6 @@
 {
     "name": "Experimental Coffee Shop",
-    "short_name": "ECS Coffee",
+    "short_name": "ECS",
     "icons": [
         {
             "src": "./android-chrome-192x192.png",
