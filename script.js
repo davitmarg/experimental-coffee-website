@@ -89,7 +89,6 @@ document.addEventListener("DOMContentLoaded", () => {
         "images/Gemini_Generated_Image_yvzvg9yvzvg9yvzv.png",
         "images/ChatGPT Image Oct 16, 2025, 02_52_26 PM.png",
         "images/Gemini_Generated_Image_wlpqzzwlpqzzwlpq.png",
-        "images/Gemini_Generated_Image_igqhrvigqhrvigqh.png",
     ];
     function loadMoreImages() {
         if (isLoading) return;
